@@ -1,0 +1,35 @@
+1;12689;1;1;ozluce Gorukle Kampusu, ozluce, 16059 Nilufer/Bursa, Turkey;Fatih, 2. Meselik Sk., 16200 Osmangazi/Bursa, Turkey;6W7R+3H Nilufer, Bursa;kucuk
+1;12690;3;1;Cumhuriyet, Nilufer Hatun Cd. No:114, 16140 Nilufer/Bursa, Turkey;Besevler, Besevler Cd. No:103 D:B, 16110 Nilufer/Bursa, Turkey;6W7R+3H Nilufer, Bursa;buyuk
+1;12695;2;1;ihlamur Cd., 16140 Minarelicavus Osb/Nilufer/Bursa, Turkey;Fatih Sultan Mehmet Bulvari, Baris, Sumer Sk. No:1, 16110 Nilufer/Bursa, Turkey;6W7R+3H Nilufer, Bursa;orta
+1;12696;1;1;sehrekustu, Cemal Nadir Cd. No:22 D:28, 16050 Osmangazi/Bursa, Turkey;isiktepe, Lacivert Cd. No: 6, 16065 isiktepe Organize Sanayi Bolgesi/Nilufer/Bursa, Turkey;6W7R+3H Nilufer, Bursa;kucuk
+1;12702;1;1;Altinsehir, 16120 Nilufer/Bursa, Turkey;Bursa Uluslararasi ve sehirlerarasi Otobus Terminali, Terminal Cd. Bursa Otogar, 16190 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey;6W7R+3H Nilufer, Bursa;kucuk
+1;12713;2;1;Ertugrul, 16000 Nilufer/Bursa, Turkey;Aydinpinar, Sari Cd. No:2, 16940 Mudanya/Bursa, Turkey;6W7R+3H Nilufer, Bursa;orta
+1;12716;2;1;ucevler, 16120 Nilufer/Bursa, Turkey;ihsaniye, 16130 Nilufer/Bursa, Turkey;6W7R+3H Nilufer, Bursa;orta
+1;12718;1;1;Santral Garaj, Kibris sehitleri Cd. No:64, 16200 Osmangazi/Bursa, Turkey;Cumhuriyet, Nilufer Hatun Cd. No:114, 16140 Nilufer/Bursa, Turkey;6W7R+3H Nilufer, Bursa;kucuk
+1;12722;1;1;sehrekustu, Cemal Nadir Cd. No:22 D:28, 16050 Osmangazi/Bursa, Turkey;Gorukle, Ataturk Cd. Yurt Sitesi D:101/A, 16285 Nilufer/Bursa, Turkey;6W7R+3H Nilufer, Bursa;kucuk
+1;12723;1;1;Pinarbasi, Bayramyeri Cd. 16/4, 16040 Osmangazi/Bursa, Turkey;Minarelicavus, Erguvan Cd., 16140 Nilufer/Bursa, Turkey;6W7R+3H Nilufer, Bursa;kucuk
+2;12692;1;1;Yunuseli, 16200 Osmangazi/Bursa, Turkey;Bursa Uluslararasi ve sehirlerarasi Otobus Terminali, Terminal Cd. Bursa Otogar, 16190 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;kucuk
+2;12693;1;1;Soganli, Bursa Zoo, Soganli Mah. Mahallesi 1, Nilufer Cd. No:260, 16160 Osmangazi/Bursa, Turkey;Sirameseler, Bursa Buyuksehir Belediyesi Zabita Dairesi Bsk., 16190 Osmangazi/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;kucuk
+2;12697;3;1;Baruthane, Teyyareci Mehmet Ali Cd. No:181 D:183A, 16320 Yildirim/Bursa, Turkey;Dikkaldirim, 16090 Osmangazi/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;buyuk
+2;12698;2;1;Hudavendigar, cekirge Devlet Hst., 16090 Osmangazi/Bursa, Turkey;Odunluk, Akademi Caddesi 6A, 16110 Nilufer/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;orta
+2;12707;1;1;Dikkaldirim Mah cekirge Zubeydehanim Cad. No:5, Dikkaldirim, 16080 Osmangazi/Bursa, Turkey;Ali Osman Sonmez Kampusu, Yeni Yalova Yolu uzeri, 16370 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;kucuk
+2;12708;2;1;Nalbantoglu Mah, Kapali carsi Cad., 16010 Osmangazi/Bursa, Turkey;Altinsehir, 16120 Nilufer/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;orta
+2;12710;2;1;Haci ilyas, Kibris sehitleri Cd. No:21, 16220 Osmangazi/Bursa, Turkey;Kurtulus, Halide Edip Adivar Cd No:18, 16285 Nilufer/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;orta
+2;12712;1;1;omerbey, istasyon Cd., 16940 Mudanya/Bursa, Turkey;Bursa Uluslararasi ve sehirlerarasi Otobus Terminali, Terminal Cd. Bursa Otogar, 16190 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;kucuk
+2;12717;3;1;Altinova, Fuar Cd. No:61, 16250 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey;Mimarsinan Mahallesi, Mimar Sinan Bulvari, Mimar Sinan, Eflak Cd. No:177, 16310 Yildirim/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;buyuk
+2;12719;2;1;Santral Garaj, Kibris sehitleri Cd. No:64, 16200 Osmangazi/Bursa, Turkey;sehrekustu, Cemal Nadir Cd. No:22 D:28, 16050 Osmangazi/Bursa, Turkey;53W4+R3 Osmangazi/Bursa, Turkiye;orta
+3;12694;3;1;Altinsehir, 16120 Nilufer/Bursa, Turkey;Yeni, Eflatun Sk. 25-17, 16450 Kestel/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;buyuk
+3;12699;1;1;Yigitler, Ankara Yolu Cd. No:752, 16300 Yildirim/Bursa, Turkey;ucevler, Bursa Kucuk Sanayi Sitesi, 16000 Nilufer/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;kucuk
+3;12701;2;1;Yesil, 1. Yesil Cd. 66-1, 16360 Yildirim/Bursa, Turkey;Gumustepe, Ataturk Kent Ormani, 16110 Nilufer/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;orta
+3;12703;2;1;Baruthane, Teyyareci Mehmet Ali Cd. No:181 D:183A, 16320 Yildirim/Bursa, Turkey;Dogankoy, 16110 Nilufer/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;orta
+3;12704;2;1;Barakfakih, Vatan Cad No:8, 16450 Kestel/Bursa, Turkey;Gorukle, Ataturk Cd. Yurt Sitesi D:101/A, 16285 Nilufer/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;orta
+3;12706;2;1;Kucukbalikli, sentepe Sk. No:1 D:Apt. No: 5/18, 16250 Demirtas Dumlupinar Organize Sanayi Bolgesi/Osmangazi/Bursa, Turkey;Gorukle Sakarya, Nilufer/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;orta
+3;12709;2;1;Esenevler, Ankara Yolu Cd. No:502, 16300 Yildirim/Bursa, Turkey;Besevler, 16110 Nilufer/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;orta
+3;12711;3;1;Yigitler, Ankara Yolu Cd. No:752, 16300 Yildirim/Bursa, Turkey;Balat, 16140 Nilufer/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;buyuk
+3;12715;1;1;Zafer Cd. & Zafer Myd., Zafer, 16580 Gursu/Bursa, Turkey;Hudavendigar, cekirge Devlet Hst., 16090 Osmangazi/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;kucuk
+3;12720;1;1;Nalbantoglu, comlekciler Cd. 30-1, 16010 Osmangazi/Bursa, Turkey;Zafer, Besevler Cd. No:5, 16580 Gursu/Bursa, Turkey;55W9+Q2 Yildirim/Bursa, Turkiye;kucuk
+13000;12691;2;1;Diskaya, 16580 Gursu/Bursa, Turkey;inkaya, Uludag Cd. No:163, 16370 Osmangazi/Bursa, Turkey;Hayali park istasyonu;orta
+13000;12700;3;1;Dogankoy, 16110 Nilufer/Bursa, Turkey;Ahmet Vefik Pasa, Fevzi cakmak Cd. No:61, 16450 Kestel/Bursa, Turkey;Hayali park istasyonu;buyuk
+13000;12705;3;1;Dumlupinar, Kizilirmak Cd., 16285 Nilufer/Bursa, Turkey;Yigitler, Ankara Yolu Cd. No:752, 16300 Yildirim/Bursa, Turkey;Hayali park istasyonu;buyuk
+13000;12714;2;1;Gorukle Sakarya, Nilufer/Bursa, Turkey;Fethiye, Kirlangic Sk. No:2, 16140 Nilufer/Bursa, Turkey;Hayali park istasyonu;orta
+13000;12721;3;1;urunlu, 16120 Nilufer/Bursa, Turkey;ozluce, Uludag unv. No:190, 16120 Nilufer/Bursa, Turkey;Hayali park istasyonu;buyuk

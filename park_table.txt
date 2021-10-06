@@ -1,0 +1,4 @@
+park_id;park_station;park_definition;num_of_s_car_type;num_of_m_car_type;num_of_xl_car_type
+3;park3;55W9+Q2 Yildirim/Bursa, Turkiye;3;5;2
+2;park2;53W4+R3 Osmangazi/Bursa, Turkiye;4;4;2
+1;park1;6W7R+3H Nilufer, Bursa;6;3;1

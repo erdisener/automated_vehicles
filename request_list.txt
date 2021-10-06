@@ -1,0 +1,36 @@
+request_id;distance_km;duration_sec;duration_text;earliest;latest;car_type;fromlatlng;tolatlng;orijin;destination
+12723;16.180;1424;24 mins;07:53;08:25;kucuk;40.1810 29.0554;40.2330 28.9279;Pinarbasi, Bayramyeri Cd. 16/4, 16040 Osmangazi/Bursa, Turkey;Minarelicavus, Erguvan Cd., 16140 Nilufer/Bursa, Turkey
+12722;22.920;1546;26 mins;08:12;09:00;kucuk;40.1876 29.0595;40.2234 28.8506;sehrekustu, Cemal Nadir Cd. No:22 D:28, 16050 Osmangazi/Bursa, Turkey;Gorukle, Ataturk Cd. Yurt Sitesi D:101/A, 16285 Nilufer/Bursa, Turkey
+12721;9.780;861;14 mins;09:00;09:26;buyuk;40.2245 28.8660;40.2184 28.8700;urunlu, 16120 Nilufer/Bursa, Turkey;ozluce, Uludag unv. No:190, 16120 Nilufer/Bursa, Turkey
+12720;13.820;1297;22 mins;08:48;09:30;kucuk;40.1834 29.0650;40.2176 29.1915;Nalbantoglu, comlekciler Cd. 30-1, 16010 Osmangazi/Bursa, Turkey;Zafer, Besevler Cd. No:5, 16580 Gursu/Bursa, Turkey
+12719;1.800;361;6 mins;08:55;09:31;orta;40.1966 29.0603;40.1876 29.0595;Santral Garaj, Kibris sehitleri Cd. No:64, 16200 Osmangazi/Bursa, Turkey;sehrekustu, Cemal Nadir Cd. No:22 D:28, 16050 Osmangazi/Bursa, Turkey
+12718;11.750;1054;18 mins;08:38;09:57;kucuk;40.1981 29.0538;40.2255 28.9707;Santral Garaj, Kibris sehitleri Cd. No:64, 16200 Osmangazi/Bursa, Turkey;Cumhuriyet, Nilufer Hatun Cd. No:114, 16140 Nilufer/Bursa, Turkey
+12717;11.910;1185;20 mins;07:17;08:00;buyuk;40.2372 29.0660;40.1874 29.1300;Altinova, Fuar Cd. No:61, 16250 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey;Mimarsinan Mahallesi, Mimar Sinan Bulvari, Mimar Sinan, Eflak Cd. No:177, 16310 Yildirim/Bursa, Turkey
+12716;5.730;569;9 mins;08:00;09:00;orta;40.2132 28.9546;40.2156 28.9849;ucevler, 16120 Nilufer/Bursa, Turkey;ihsaniye, 16130 Nilufer/Bursa, Turkey
+12715;19.390;1542;26 mins;08:00;09:00;kucuk;40.2211 29.1859;40.2022 29.0147;Zafer Cd. & Zafer Myd., Zafer, 16580 Gursu/Bursa, Turkey;Hudavendigar, cekirge Devlet Hst., 16090 Osmangazi/Bursa, Turkey
+12714;18.460;1103;18 mins;09:00;09:32;orta;40.2281 28.8528;40.2294 28.9764;Gorukle Sakarya, Nilufer/Bursa, Turkey;Fethiye, Kirlangic Sk. No:2, 16140 Nilufer/Bursa, Turkey
+12713;16.160;1339;22 mins;08:00;08:25;orta;40.2206 28.9150;40.3228 28.9293;Ertugrul, 16000 Nilufer/Bursa, Turkey;Aydinpinar, Sari Cd. No:2, 16940 Mudanya/Bursa, Turkey
+12712;26.750;1508;25 mins;07:04;07:15;kucuk;40.3740 28.8890;40.2654 29.0533;omerbey, istasyon Cd., 16940 Mudanya/Bursa, Turkey;Bursa Uluslararasi ve sehirlerarasi Otobus Terminali, Terminal Cd. Bursa Otogar, 16190 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey
+12711;32.590;1514;25 mins;08:00;09:11;buyuk;40.1967 29.1674;40.2571 28.9525;Yigitler, Ankara Yolu Cd. No:752, 16300 Yildirim/Bursa, Turkey;Balat, 16140 Nilufer/Bursa, Turkey
+12710;23.190;1522;25 mins;08:03;09:04;orta;40.1930 29.0702;40.2183 28.8234;Haci ilyas, Kibris sehitleri Cd. No:21, 16220 Osmangazi/Bursa, Turkey;Kurtulus, Halide Edip Adivar Cd No:18, 16285 Nilufer/Bursa, Turkey
+12709;18.290;1279;21 mins;07:00;07:27;orta;40.1920 29.1416;40.2086 28.9631;Esenevler, Ankara Yolu Cd. No:502, 16300 Yildirim/Bursa, Turkey;Besevler, 16110 Nilufer/Bursa, Turkey
+12708;15.620;1299;22 mins;10:03;10:28;orta;40.1852 29.0621;40.2205 28.9325;Nalbantoglu Mah, Kapali carsi Cad., 16010 Osmangazi/Bursa, Turkey;Altinsehir, 16120 Nilufer/Bursa, Turkey
+12707;10.530;956;16 mins;08:00;08:16;kucuk;40.2043 29.0204;40.2586 29.0599;Dikkaldirim Mah cekirge Zubeydehanim Cad. No:5, Dikkaldirim, 16080 Osmangazi/Bursa, Turkey;Ali Osman Sonmez Kampusu, Yeni Yalova Yolu uzeri, 16370 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey
+12706;24.080;1702;28 mins;08:02;09:04;orta;40.2580 28.9846;40.2281 28.8528;Kucukbalikli, sentepe Sk. No:1 D:Apt. No: 5/18, 16250 Demirtas Dumlupinar Organize Sanayi Bolgesi/Osmangazi/Bursa, Turkey;Gorukle Sakarya, Nilufer/Bursa, Turkey
+12705;29.130;1861;31 mins;09:00;09:34;buyuk;40.2226 28.8358;40.1967 29.1674;Dumlupinar, Kizilirmak Cd., 16285 Nilufer/Bursa, Turkey;Yigitler, Ankara Yolu Cd. No:752, 16300 Yildirim/Bursa, Turkey
+12704;55.140;2294;38 mins;09:00;10:00;orta;40.2096 29.2603;40.2234 28.8506;Barakfakih, Vatan Cad No:8, 16450 Kestel/Bursa, Turkey;Gorukle, Ataturk Cd. Yurt Sitesi D:101/A, 16285 Nilufer/Bursa, Turkey
+12703;22.810;1715;29 mins;08:00;08:18;orta;40.1818 29.0996;40.2690 28.9094;Baruthane, Teyyareci Mehmet Ali Cd. No:181 D:183A, 16320 Yildirim/Bursa, Turkey;Dogankoy, 16110 Nilufer/Bursa, Turkey
+12702;21.760;1384;23 mins;09:00;09:27;kucuk;40.2120 28.9416;40.2654 29.0533;Altinsehir, 16120 Nilufer/Bursa, Turkey;Bursa Uluslararasi ve sehirlerarasi Otobus Terminali, Terminal Cd. Bursa Otogar, 16190 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey
+12701;13.690;1366;23 mins;08:06;08:24;orta;40.1814 29.0745;40.1869 28.9854;Yesil, 1. Yesil Cd. 66-1, 16360 Yildirim/Bursa, Turkey;Gumustepe, Ataturk Kent Ormani, 16110 Nilufer/Bursa, Turkey
+12700;36.270;1758;29 mins;08:52;09:20;buyuk;40.2690 28.9094;40.2028 29.2075;Dogankoy, 16110 Nilufer/Bursa, Turkey;Ahmet Vefik Pasa, Fevzi cakmak Cd. No:61, 16450 Kestel/Bursa, Turkey
+12699;23.180;1626;27 mins;07:53;08:12;kucuk;40.1967 29.1674;40.2088 28.9483;Yigitler, Ankara Yolu Cd. No:752, 16300 Yildirim/Bursa, Turkey;ucevler, Bursa Kucuk Sanayi Sitesi, 16000 Nilufer/Bursa, Turkey
+12698;2.340;343;6 mins;07:00;07:42;orta;40.2022 29.0147;40.2072 28.9960;Hudavendigar, cekirge Devlet Hst., 16090 Osmangazi/Bursa, Turkey;Odunluk, Akademi Caddesi 6A, 16110 Nilufer/Bursa, Turkey
+12697;10.420;1031;17 mins;09:00;09:23;buyuk;40.1818 29.0996;40.2131 29.0149;Baruthane, Teyyareci Mehmet Ali Cd. No:181 D:183A, 16320 Yildirim/Bursa, Turkey;Dikkaldirim, 16090 Osmangazi/Bursa, Turkey
+12696;15.620;1226;20 mins;07:00;07:15;kucuk;40.1876 29.0595;40.2257 28.9558;sehrekustu, Cemal Nadir Cd. No:22 D:28, 16050 Osmangazi/Bursa, Turkey;isiktepe, Lacivert Cd. No: 6, 16065 isiktepe Organize Sanayi Bolgesi/Nilufer/Bursa, Turkey
+12695;8.730;779;13 mins;08:00;08:20;orta;40.2440 28.9281;40.2130 28.9764;ihlamur Cd., 16140 Minarelicavus Osb/Nilufer/Bursa, Turkey;Fatih Sultan Mehmet Bulvari, Baris, Sumer Sk. No:1, 16110 Nilufer/Bursa, Turkey
+12694;25.490;1780;30 mins;07:00;07:11;buyuk;40.2205 28.9325;40.1921 29.2007;Altinsehir, 16120 Nilufer/Bursa, Turkey;Yeni, Eflatun Sk. 25-17, 16450 Kestel/Bursa, Turkey
+12693;3.580;243;4 mins;09:00;09:30;kucuk;40.2192 29.0458;40.2130 29.0160;Soganli, Bursa Zoo, Soganli Mah. Mahallesi 1, Nilufer Cd. No:260, 16160 Osmangazi/Bursa, Turkey;Sirameseler, Bursa Buyuksehir Belediyesi Zabita Dairesi Bsk., 16190 Osmangazi/Bursa, Turkey
+12692;6.610;754;13 mins;08:00;08:26;kucuk;40.2546 29.0140;40.2654 29.0533;Yunuseli, 16200 Osmangazi/Bursa, Turkey;Bursa Uluslararasi ve sehirlerarasi Otobus Terminali, Terminal Cd. Bursa Otogar, 16190 Demirtas Dumlupinar Osb/Osmangazi/Bursa, Turkey
+12691;35.870;2987;50 mins;10:00;10:00;orta;40.2555 29.2715;40.1824 29.0167;Diskaya, 16580 Gursu/Bursa, Turkey;inkaya, Uludag Cd. No:163, 16370 Osmangazi/Bursa, Turkey
+12690;3.250;415;7 mins;09:00;09:06;buyuk;40.2249 28.9680;40.2081 28.9716;Cumhuriyet, Nilufer Hatun Cd. No:114, 16140 Nilufer/Bursa, Turkey;Besevler, Besevler Cd. No:103 D:B, 16110 Nilufer/Bursa, Turkey
+12689;18.460;1484;25 mins;08:02;08:30;kucuk;40.2199 28.8704;40.2097 29.0574;ozluce Gorukle Kampusu, ozluce, 16059 Nilufer/Bursa, Turkey;Fatih, 2. Meselik Sk., 16200 Osmangazi/Bursa, Turkey
